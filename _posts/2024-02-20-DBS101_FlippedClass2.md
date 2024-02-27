@@ -12,14 +12,14 @@ For our second flipped class today, we were given the work to make our own ER Mo
 
 So basically, there were about six groups and each individual was provided a home group to do the chart-paper work. It was actually very nostalgic using chartpapers for our presentation since it brought so many forgotten high school/middle school memories. We could come up with any ER models we wanted or we could make for one which might possibly already exist, giving us a choice which was better. 
 
-After some time, groups picked representatives to come up at front and explain their models to the class. Our tutor asked questions with no differentiation so each one of us was included. So many fun moments and laughters were shared and the presenters did such amazing job. 
+After some time, groups picked representatives to come up at front and explain their models to the class. Our tutor asked questions with no differentiation so each one of us was included. So many fun moments and laughters were shared and the presenters did such amazing jobs. 
 
 It was a really nice session.
 
 ## What I learned
 Our group got to do an ER model for a Student Information Management System. We could do any but we chose to make an ideal but a possible ER model which was mostly inspired by the VLE and IMS ER models.
 
-Discussing made me realise how important and distinctive the components of an ERD were. How each entity needed its own descriptive attributes and neded relations to describe those attributes.
+Discussing made me realise how important and distinctive the components of an ERD were. How each entity needed its own descriptive attributes and needed relations to describe those attributes.
 
 I bummed myself and lost concentration midway honestly and could not understand any of the relation lines(cardinalities) to use for different cases like one to many or vice versa. But as I was discussing with my team members and also while listening to my friends present helped me understand what I missed earlier.
 
