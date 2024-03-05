@@ -7,9 +7,6 @@ tags: [DBS101]
 # Topic : Null Values and Set Operations in SQL
 
 ---
-
-![Desktop View](/home/pomegranateu/DBS101/pomegranateis.github.io){: width="700" height="400" }
-
 ## What I did
 We started our week with a new lesson learning in depth about DBMS and RDBMS. After that we began learning about SQL starting from its basic structures. Since we only had a few ideas as SQL was still kind of new to us, our tutor assigned us two topics we could discuss on. Set operations and Null values.
 
@@ -19,9 +16,6 @@ Following the same routine as before, our team got assigned Set Operations to le
 Following will be a brief introduction to basics of both set operations and null values.
 
 ### Set Operations
-
-![Desktop View](/home/pomegranateu/Screenshots){: width="700" height="400" }
-
 The SQL Set operation is used to combine two or more SQL SELECT statements.
 
 #### Types of Set Operation
