@@ -88,12 +88,13 @@ We have to use
 - IS NULL and 
 - IS NOT NULL 
 
-#### IS NULL Syntax
+#### IS NULL SYNTAX
 ###### SELECT column_names
 ###### FROM table_name
 ###### WHERE column_name IS NULL;
 
-#### IS NOT NULL Syntax
+#### IS NOT NULL SYNTAX
 ###### SELECT column_names
 ###### FROM table_name
 ###### WHERE column_name IS NOT NULL;
+
