@@ -12,7 +12,7 @@ For this vlog, I have done it based on a practical under the same topic. A condu
 
 ### Storage and Buffer Management
 
-![alt text](../assets/img/7.png)
+![alt text](../assets/img/dbs/7.png)
 
 #### Disk Block Management
 
@@ -42,7 +42,7 @@ After a short analyzing and studying under Data Storage Structures, I go to proc
 
 #### start up
 
-![alt text](../assets/img/77.png)
+![alt text](../assets/img/dbs/77.png)
 
 Building a relational database from scratch is a complex process that requires careful planning and implementation of various procedures and data structures. Each step is crucial for ensuring the database's functionality, performance, and security. 
 

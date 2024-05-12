@@ -7,7 +7,7 @@ tags: [DBS101]
 # Topic : Understanding Normal Forms in Database Systems
 ---
 
-![Alt text](../assets/img/nf.png)
+![Alt text](../assets/img/dbs/nf.png)
 
 ## Normal Forms 
 

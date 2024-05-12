@@ -8,7 +8,7 @@ tags: [DBS101]
 
 ## NoSQL Databases
 
-![Alt text](../assets/img/nosql.jpeg)
+![Alt text](../assets/img/dbs/nosql.jpeg)
 
 NoSQL databases have emerged as a compelling alternative to traditional SQL databases, imparting flexibility, scalability, and performance blessings for specific use instances. 
 
@@ -18,7 +18,7 @@ This entry delves into the numerous types of NoSQL databases, along with Documen
 
 **What could differ NoSQL from SQL?**
 
-![Alt text](../assets/img/0_BWL5BJk7bk16kOn2.jpg)
+![Alt text](../assets/img/dbs/0_BWL5BJk7bk16kOn2.jpg)
 
 ### What i did
 Since this concept was really important, our tutor reminded us to be serious about it and the arrangements were made in such a way every student in their home groups had different topics.

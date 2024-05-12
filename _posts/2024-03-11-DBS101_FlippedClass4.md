@@ -31,7 +31,7 @@ A basic issue with ranking is how to deal with the case of multiple tuples that 
 
 ## Windowing
 
-![Alt text](../assets/img/flippedclass4/windowing.png)
+![Alt text](../assets/img/dbs/flippedclass4/windowing.png)
 
 Perform calculations across a set of rows related to the current row within a query result set.
 
@@ -43,7 +43,7 @@ An example of the use of windowing is trend analysis.
 
 Some examples of windowing can be sales trend analysis, stock-market trend analysis etc.
 
-![Alt text](../assets/img/flippedclass4/windowing1.png)
+![Alt text](../assets/img/dbs/flippedclass4/windowing1.png)
 
 - Aggregate functons
 
