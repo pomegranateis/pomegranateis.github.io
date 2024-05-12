@@ -48,7 +48,6 @@ Imagine you're out with your friends, and no one has internet on their devices e
 
 Your friends can connect to your phone's hotspot, and they'll be able to use the internet on their devices, just as if they were connected to Wi-Fi at home or in a cafe.
 
-![Desktop View](/assets/img/favicons/61e4200688ff5cd82e082559f06258cd.ico/ms-icon-310x310.png){: w="700" h="400"}
 
 ## Public Network
 
