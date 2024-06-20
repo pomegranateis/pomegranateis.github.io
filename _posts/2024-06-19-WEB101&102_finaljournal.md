@@ -1,6 +1,6 @@
 ---
 Title: WEB Journal
-categories: [SWS, Final Journal]
+categories: [WEB, Final Journal]
 tags: [WEB]
 ---
 
