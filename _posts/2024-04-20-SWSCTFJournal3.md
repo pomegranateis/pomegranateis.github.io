@@ -37,8 +37,6 @@ The scan reveals that the target machine has 2 open ports: 22 and 80.
 
 Enumerating the http service
 
-![alt text](<../assets/img/tryhackme_ctf/Screenshot from 2024-06-21 00-19-14.png>)
-
 I inspected the source code of the web page and found a username: **R1ckRul3s**
 
 ![alt text](<../assets/img/tryhackme_ctf/Screenshot from 2024-06-21 00-21-27.png>)
