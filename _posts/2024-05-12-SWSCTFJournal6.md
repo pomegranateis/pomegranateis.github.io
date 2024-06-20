@@ -28,11 +28,7 @@ Answer: SSH
 
 Using gobuster to find out files/directories.
 
-![alt text](<../assetsassets/img/tryhackme_ctf/Screenshot from 2024-06-21 03-53-23.png>)
-
 There is a /simple directory.
-
-![alt text](<../aassets/img/tryhackme_ctf/Screenshot from 2024-06-21 03-54-27.png>)
 
 More information can be found here.
 
