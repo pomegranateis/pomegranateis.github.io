@@ -6,7 +6,7 @@ tags: [WEB]
 
 # Topic: Final Project [Instagram clone]
 
-We document the process of cloning Instagram, focusing on both backend and frontend development. This includes setting up a database, developing the backend with Prisma and Hono, and building the frontend with a modern JavaScript framework.
+Our team document the process of cloning Instagram, focusing on both backend and frontend development. This includes setting up a database, developing the backend with Prisma and Hono, and building the frontend with a modern JavaScript framework.
 
 ## Table of Contents
 1. [Developing the Frontend](#developing-the-frontend)
