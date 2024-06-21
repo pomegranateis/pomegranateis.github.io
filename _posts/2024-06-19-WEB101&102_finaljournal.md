@@ -117,3 +117,16 @@ We referenced the react-audio-voice-recorder library to implement the audio reco
 
 We tried implementing the basic functionality of Instagram such as user authentication, user profile, feed, post, and search. We have faced several challenges along the way but have managed to overcome some of them. We are still working on some features such as audio recording and uploading. We have learned a lot from this project and have gained valuable experience in web development. We are proud of what we have accomplished and look forward to further improving our Instagram clone.
 
+## My Contributions
+
+The above is our team's final journal for the WEB101 and WEB102 course. I have contributed to the following parts of the project:
+- authentication backend and frontend
+- jwt token implementation
+- backend and frontend integration
+- user profile frontend
+
+## What i learned
+
+Honestly speaking this project was a great learning experience for me. I learned a lot about web development and how to build a full-stack application. I learned how to set up a database, develop the backend, and build the frontend. I also learned how to make HTTP requests, handle authentication, and authorization, and implement user profile, feed, post, and search functionality. I faced several challenges along the way but managed to overcome some of them. I am proud of what I have accomplished and look forward to further improving my skills in web development.
+
+Specially in backend development, I learned how to set up a database using Prisma, define the data model, and generate the database schema. I also learned how to make HTTP requests from the frontend to the backend API, handle authentication and authorization, and implement user profile, feed, post, and search functionality. I faced several challenges along the way but managed to overcome some of them. I am proud of what I have accomplished and look forward to further improving my skills in web development.
