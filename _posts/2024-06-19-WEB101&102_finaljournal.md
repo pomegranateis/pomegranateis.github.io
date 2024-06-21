@@ -111,12 +111,6 @@ We had to figure out how to fetch search results from the backend and display th
 
 We referenced the react-audio-voice-recorder library to implement the audio recording feature. We tried to upload the audio to the backend but faced challenges in implementing web sockets. We are still working on this feature.
 
-## What we learned
-
-## Conclusion
-
-We tried implementing the basic functionality of Instagram such as user authentication, user profile, feed, post, and search. We have faced several challenges along the way but have managed to overcome some of them. We are still working on some features such as audio recording and uploading. We have learned a lot from this project and have gained valuable experience in web development. We are proud of what we have accomplished and look forward to further improving our Instagram clone.
-
 ## My Contributions
 
 The above is our team's final journal for the WEB101 and WEB102 course. I have contributed to the following parts of the project:
