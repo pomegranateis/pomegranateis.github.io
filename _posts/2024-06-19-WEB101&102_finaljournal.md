@@ -13,7 +13,6 @@ Our team document the process of cloning Instagram, focusing on both backend and
 2. [Setting Up the Backend](#setting-up-the-backend)
 3. [Integrating Frontend and Backend](#integrating-frontend-and-backend)
 4. [Challenges and Solutions](#challenges-and-solutions)
-5. [Conclusion](#conclusion)
 
 ## Developing the Frontend
 
